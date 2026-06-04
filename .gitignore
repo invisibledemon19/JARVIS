@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+envjarvis/
+venv/
+.venv/
+env/
+
+# Database files
+jarvis.db
+
+# Private face auth samples and temporary folders
+engine/auth/samples/
+
+# Local configuration / secrets
+.env
